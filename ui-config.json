@@ -1,0 +1,25 @@
+{
+    "Finance": {
+      "theme": "dark",
+      "components": [
+        { "id": "1", "type": "SearchBar" },
+        { "id": "2", "type": "Chart" },
+        { "id": "3", "type": "RecentTransactions" }
+      ]
+    },
+    "HR": {
+      "theme": "light",
+      "components": [
+        { "id": "1", "type": "EmployeeList" },
+        { "id": "2", "type": "SalaryAnalytics" }
+      ]
+    },
+    "Marketing": {
+      "theme": "blue",
+      "components": [
+        { "id": "1", "type": "CampaignList" },
+        { "id": "2", "type": "PerformanceMetrics" }
+      ]
+    }
+  }
+  

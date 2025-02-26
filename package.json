@@ -1,0 +1,24 @@
+{
+  "name": "generative-ui-engine",
+  "version": "1.0.0",
+  "description": "A Generative UI Engine dynamically generates and serves UI configurations based on the user role. This allows frontends to dynamically load UI components without redeploying.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramelapa/generative-ui-engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramelapa/generative-ui-engine/issues"
+  },
+  "homepage": "https://github.com/ramelapa/generative-ui-engine#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
